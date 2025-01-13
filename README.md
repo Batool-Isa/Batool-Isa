@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer  </h3>
 
 # 💫 About Me:
-🔭 I’m currently working on GenieSuger<br>👯 I’m looking to collaborate on real-time-forum<br>🌱 I’m currently learning Javascript <br>💬 Contact me on my email (batool.taher124@gmail.com)<br>
+🔭 I’m currently working on GenieSuger<br>🌱 I’m currently learning Javascript <br>💬 Contact me on my email (batool.taher124@gmail.com)<br>
 
 
 ## 🌐 Socials:
